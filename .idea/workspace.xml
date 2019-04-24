@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0301c638-39d4-433e-a8cf-cd456c07e6d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/2eb7b02ff97c6940/1-2자가진단.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/2eb7b02ff97c6940/mmap_address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/55d031028124d572/1-8자가진단.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/55d031028124d572/mmap_address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/57405de79dda69f8/mmap_address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/57405de79dda69f8/자가진단.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/581e18ed0f926fc6/1-4자가진단.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/581e18ed0f926fc6/mmap_address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/971048543a80c171/1-1자가진단.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/971048543a80c171/mmap_address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/a48968c9e68b072d/1-5자가진단.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/a48968c9e68b072d/mmap_address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/ae545b700fc60187/1-3자가진단.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/ae545b700fc60187/mmap_address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/bfba64a237d4f4a3/1-7자가진단.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/bfba64a237d4f4a3/mmap_address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/cacf7de1cd95102/MINOR.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/cacf7de1cd95102/mmap_address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/f62f5f4b1b510a0c/1-6자가진단.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/ipch/f62f5f4b1b510a0c/mmap_address.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력/1-2자가진단.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력/1-3자가진단.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력/1-4자가진단.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력/1-5자가진단.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력/1-6자가진단.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력/1-7자가진단.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력/1-8자가진단.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력/minor.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력/자가진단.exe" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/algorithm.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="입출력" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0301c638-39d4-433e-a8cf-cd456c07e6d9" name="Default Changelist" comment="" />
+      <created>1556030446958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556030446958</updated>
+      <workItem from="1556030448125" duration="231000" />
+    </task>
+    <task id="LOCAL-00001" summary="..">
+      <created>1556030565616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556030565616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="231000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
+  </component>
+</project>
